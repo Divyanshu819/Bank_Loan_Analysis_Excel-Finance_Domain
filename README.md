@@ -100,8 +100,8 @@ A detailed data view that provides a **complete snapshot of loan records**, allo
 
 ##  Dashboard Preview
 
-- Dashboard 1 Screenshot  - https://github.com/Divyanshu819/Bank_Loan_Analysis_Excel-Finance_Domain/blob/main/Bank_Loan_Report_MSExcel.png
-- Dashboard 2 Screenshot  - https://github.com/Divyanshu819/Bank_Loan_Analysis_Excel-Finance_Domain/blob/main/Bank%20Loan%20Report_MS%20Excel.png
+- ![Dashboard 1 Screenshot](https://github.com/Divyanshu819/Bank_Loan_Analysis_Excel-Finance_Domain/blob/main/Bank_Loan_Report_MSExcel.png)
+- ![Dashboard 2 Screenshot](https://github.com/Divyanshu819/Bank_Loan_Analysis_Excel-Finance_Domain/blob/main/Bank%20Loan%20Report_MS%20Excel.png)
 
 ---
 
